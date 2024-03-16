@@ -1,0 +1,18 @@
+tt.*
+.tests
+doc/tags
+debug
+.repro
+foo.*
+*.log
+data
+# add everything that comes with LazyVim (except for those I've modified)
+*.json
+README.md
+LICENSE
+init.lua
+stylua.toml
+lua/config/autocmds.lua
+lua/config/keymaps.lua
+lua/config/lazy.lua
+lua/plugins/example.lua
